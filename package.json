@@ -1,0 +1,17 @@
+{
+    "author": "Kenny Parnell <k.parnell@gmail.com>", 
+    "description": "make ender play nice with requirejs", 
+    "ender": "noop", 
+    "homepage": "https://github.com/kparnell/require-ender", 
+    "keywords": [
+        "requirejs", 
+        "ender"
+    ], 
+    "main": "./require-ender.js", 
+    "name": "require-ender", 
+    "repository": {
+        "type": "git", 
+        "url": "https://github.com/kparnell/require-ender.git"
+    }, 
+    "version": "1.0.0"
+}
